@@ -2,7 +2,7 @@
 A Tensorflow2.x implementation of DeepLabV3+
 
 ## Model
-![](https://github.com/TanyaChutani/DeepLabV3Plus-Tf2.0/blob/master/Result/deeplabv3plus.png?raw=true)
+![](https://raw.githubusercontent.com/TanyaChutani/DeepLabV3Plus-Tf2.0/master/result/deeplabv3plus.png)
 
 ## Results
 
