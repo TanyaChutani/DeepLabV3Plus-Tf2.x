@@ -7,9 +7,9 @@ A Tensorflow2.x implementation of DeepLabV3+
 ## Results
 
 #### Original Image
-![](https://raw.githubusercontent.com/TanyaChutani/DeepLabV3Plus-Tf2.0/master/Result/original_img.png?token=AGCG5WFFWJGG6KNWJKLYDUK7CLUPC)
+![](https://github.com/TanyaChutani/DeepLab-V3-Plus-Tf2.0/blob/master/result/original_img.png?raw=true)
 #### Predicted Mask
-![](https://raw.githubusercontent.com/TanyaChutani/DeepLabV3Plus-Tf2.0/master/Result/pred_mask.png?token=AGCG5WBECNAPEVHZZ7QRGLC7CLUDO)
+![](https://github.com/TanyaChutani/DeepLab-V3-Plus-Tf2.0/blob/master/result/pred_mask.png?raw=true)
 
 ### Clothes Exctraction
 ![](https://github.com/TanyaChutani/DeepLab-V3-Plus-Tf2.0/blob/master/result/clothes_mask.png?raw=true)
